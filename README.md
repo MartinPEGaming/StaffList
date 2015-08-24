@@ -1,2 +1,0 @@
-# StaffList
-PocketMine Plugin
